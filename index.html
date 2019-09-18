@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>My first Crypto Web App</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        </head>
+        <body>
+            <div class="container">
+                <div class="menu">
+                    <ul>
+                       <li class="logo"><img src="diamond-512.png"></li>
+                       <li class="active">Home</li>
+                       <li>Service</li>
+                       <li>Product</li>
+                       <li>Contact</li>
+                       <li><a href="#" class="signup-btn"><span>Sign Up</span></a></li>
+
+                    </ul>
+                </div>
+                <div class="banner">
+                    <div class="app-text">
+                    <h1>Our basic thesis for bitcoin<br> is that it is better than gold.</h1>
+                    <p>fhiuo8fh dufidufhdofuh dufodufg doufdh figufdfugdufigduf
+                        ysuskskusgkbkysgs <br> bsksuksuk hugoulssgkug fgiygku skuky 
+                        jsdyskskysksugd sdksygksudg skygskdugs skygskdsg </p>
+                    <div class="play-btn">
+                        <div class="play-btn-inner"><i class="fa fa-play"></i></div>
+                    <small><b>LEARN MORE</b></small>
+                    </div>
+                </div>
+                <div class="app-picture">
+                    <img src="bitcoin.png">
+                </div>
+                </div>
+<div class="quick-links">
+    <ul>
+        <li><i class="fa fa-share-alt"></i><p>SHARE TO</p></li>
+        <li><i class="fa fa-audio-description"></i><p>RECENT NEWS</p></li>
+        <li><i class="fa fa-cog"></i><p>ANALYTICS</p></li>
+        <li><i class="fa fa-btc"></i><p>WALLETS</p></li>
+    </ul>
+</div>
+
+<div class="social-icons">
+    <ul>
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+    </ul>
+</div>
+            </div>
+
+        </body>
+</html>
